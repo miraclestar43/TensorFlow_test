@@ -1,2 +1,2 @@
 # TensorFlow_test
-try TF
+Image Classifier CNN in TensorFlow
